@@ -1,1 +1,3 @@
 Making some changes.
+
+Again checking the diff command now to see the difference in  file in the working tree.
